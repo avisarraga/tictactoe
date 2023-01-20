@@ -1,1 +1,1 @@
-# test file for creating basic console games
+# basic console game
